@@ -5,7 +5,7 @@
 <h1 align="center">Vasundhara Penmetsa</h1>
 
 <p align="center">
-  <i>Data Scientist · Product & Business Analytics · Duke MQM</i>
+  <i>Data Analyst · Product & Business Analytics · Duke MQM</i>
 </p>
 
 <p align="center">
