@@ -16,7 +16,7 @@ Data Scientist | Analytics Engineer | Duke MQM
   <a href="mailto:vasundharapenmetsa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/vasundhara-penmetsa/">
+  <a href="https://www.linkedin.com/in/pvasundhara/">
     <img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
