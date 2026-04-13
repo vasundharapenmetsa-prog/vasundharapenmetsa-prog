@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=30&center=true&vCenter=true&width=500&lines=Vasundhara+Penmetsa;Data+Scientist+%7C+Analytics;Turning+data+into+decisions" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=30&center=true&vCenter=true&width=500&lines=Vasundhara+Penmetsa;Data+Science+%7C+Analytics+%7C+ML;Turning+data+into+decisions" />
 </h1>
 
 <h3 align="center">Data Scientist | Product & Business Analytics | Duke MQM</h3>
@@ -13,9 +13,9 @@
 I build data products that **drive decisions, not just dashboards**.
 
 * 🎓 MQM, Duke University
-* 📊 Data Science, ML, Product Analytics
+* 📊 Data Science, Machine Learning, Product Analytics
 * ⚡ Turning messy data → clear insights
-* 🧠 Strong mix of technical + business thinking
+* 🧠 Strong mix of technical depth + business thinking
 
 ---
 
@@ -57,11 +57,11 @@ I build data products that **drive decisions, not just dashboards**.
 ### 🌐 Connect
 
 <p align="center">
-<a href="mailto:vasundharapenmetsa@gmail.com">
+<a href="mailto:vasundhrapnmetsa@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
 </a>
 
-<a href="https://www.linkedin.com/in/vasundhara-penmetsa/">
+<a href="https://www.linkedin.com/in/pvasundhara/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
@@ -69,3 +69,4 @@ I build data products that **drive decisions, not just dashboards**.
 ---
 
 ✨ I focus on building models that actually **drive business decisions**
+
