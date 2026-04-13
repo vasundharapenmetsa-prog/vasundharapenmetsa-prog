@@ -31,22 +31,21 @@ Data Scientist | Analytics Engineer | Duke MQM
 
 ### About
 
-I turn messy data into clear decisions.
+• Data Analyst focused on analytics, machine learning, and business impact  
 
-MQM graduate from **Duke University (Fuqua School of Business)** with a focus on  
-**Data Science, Machine Learning, and Business Analytics**.
+• MS in Quantitative Management (MQM), Duke University — Fuqua School of Business  
 
-I build end-to-end analytical solutions that combine  
-**statistical rigor + real business impact** from segmentation and forecasting  
-to experimentation and predictive modeling.
+• Experience across customer segmentation, forecasting, experimentation, and product analytics  
 
-I’m especially interested in roles across:
-- Data Science  
-- Product Analytics  
-- Business Intelligence  
-- Analytics Engineering  
+• Strong foundation in statistical modeling, feature engineering, and model evaluation  
 
-💡 I focus on building models that don’t just predict but **drive action**
+• Building end-to-end analytical solutions from data → insights → decision-making  
+
+• Proficient in Python, R, SQL, Snowflake, Airflow, CI/CD, Tableau  
+
+• Bringing academic rigor + real-world execution to complex data problems  
+
+• Constantly leveraging advanced analytical techniques for smarter decision-making  
 
 </td>
 
