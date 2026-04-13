@@ -25,7 +25,7 @@
 
 ### about
 
-* Data Scientist specializing in **analytics, machine learning, and business impact**
+* Data Analyst specializing in **analytics, machine learning, and business impact**
 * Master of Quantitative Management (MQM), **Duke University**
 * Experience across **customer segmentation, forecasting, experimentation, and product analytics**
 * Strong foundation in **statistical modeling, feature engineering, and model evaluation**
