@@ -1,72 +1,108 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=180&section=header&text=&fontSize=0"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=30&center=true&vCenter=true&width=500&lines=Vasundhara+Penmetsa;Data+Science+%7C+Analytics+%7C+ML;Turning+data+into+decisions" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=32&center=true&vCenter=true&width=600&height=60&duration=4000&lines=Vasundhara+Penmetsa;Data+Scientist+%7C+Analytics+%7C+ML;I+build+data+products+that+drive+decisions" />
 </h1>
 
-<h3 align="center">Data Scientist | Product & Business Analytics | Duke MQM</h3>
+<p align="center">
+  <b>Data Scientist · Product & Business Analytics · Duke MQM</b>
+</p>
 
 ---
 
-### 👋 About Me
+### ✦ About
 
-I build data products that **drive decisions, not just dashboards**.
+I turn messy data into **clear, high-impact decisions**.
 
-* 🎓 MQM, Duke University
+* 🎓 Duke MQM
 * 📊 Data Science, Machine Learning, Product Analytics
-* ⚡ Turning messy data → clear insights
-* 🧠 Strong mix of technical depth + business thinking
+* ⚡ From raw data → models → business outcomes
+* 🧠 Technical depth + business thinking
 
 ---
 
-### 🧰 Tech Stack
+### ✦ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,r,sql,postgres,gcp" />
-<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,r,sql,postgres,gcp,pytorch,sklearn" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-* 🎮 **Gaming Market Segmentation** → Customer clustering + pricing strategy
-* 🍔 **iFood Campaign Targeting** → ML model (88% accuracy)
-* 🏥 **LightForce Analytics** → Real consulting project (segmentation + revenue)
-* 🏠 **House Price Prediction** → Deep learning model (55% improvement)
-* 📊 **A/B Testing (Vungle)** → Revenue optimization via experimentation
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vasundharapenmetsa-prog&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasundharapenmetsa-prog&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
 </p>
 
 ---
 
-### 🌐 Connect
+### ✦ Selected Work
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+**🎮 Gaming Market Segmentation**
+→ 1,200+ users segmented into personas
+→ Identified optimal pricing strategy
+
+</td>
+<td width="50%">
+
+**🍔 iFood Campaign Targeting**
+→ ML model (88% accuracy)
+→ Improved marketing efficiency
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+**🏥 LightForce Analytics**
+→ Real consulting project
+→ Revenue + segmentation insights
+
+</td>
+<td width="50%">
+
+**🏠 House Price Prediction**
+→ Deep learning model
+→ 55% better than baseline
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+### ✦ GitHub Insights
+
+<p align="center">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=vasundharapenmetsa-prog&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasundharapenmetsa-prog&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### ✦ Connect
 
 <p align="center">
 <a href="mailto:vasundhrapnmetsa@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
+<img src="https://img.shields.io/badge/email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/pvasundhara/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-✨ I focus on building models that actually **drive business decisions**
+<p align="center">
+  <i>Building models that don’t just predict — but drive decisions</i>
+</p>
 
