@@ -1,108 +1,132 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=180&section=header&text=&fontSize=0"/>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=32&center=true&vCenter=true&width=600&height=60&duration=4000&lines=Vasundhara+Penmetsa;Data+Scientist+%7C+Analytics+%7C+ML;I+build+data+products+that+drive+decisions" />
-</h1>
-
 <p align="center">
-  <b>Data Scientist · Product & Business Analytics · Duke MQM</b>
+  <img src="https://images.unsplash.com/photo-1581093458791-9d42b6c3a1c8?auto=format&fit=crop&w=1600&q=80" width="100%" />
 </p>
 
----
-
-### ✦ About
-
-I turn messy data into **clear, high-impact decisions**.
-
-* 🎓 Duke MQM
-* 📊 Data Science, Machine Learning, Product Analytics
-* ⚡ From raw data → models → business outcomes
-* 🧠 Technical depth + business thinking
-
----
-
-### ✦ Tech Stack
+<h1 align="center">Vasundhara Penmetsa</h1>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,r,sql,postgres,gcp,pytorch,sklearn" />
+  <i>Data Scientist · Product & Business Analytics · Duke MQM</i>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
+  <a href="mailto:vasundhrapnmetsa@gmail.com">
+    <img src="https://img.shields.io/badge/email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pvasundhara/">
+    <img src="https://img.shields.io/badge/linkedin-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
-
-### ✦ Selected Work
-
-<div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="60%" valign="top">
 
-**🎮 Gaming Market Segmentation**
-→ 1,200+ users segmented into personas
-→ Identified optimal pricing strategy
+### about
 
-</td>
-<td width="50%">
+* Data Scientist specializing in **analytics, machine learning, and business impact**
+* Master of Quantitative Management (MQM), **Duke University**
+* Experience across **customer segmentation, forecasting, experimentation, and product analytics**
+* Strong foundation in **statistical modeling, feature engineering, and model evaluation**
+* Driving data initiatives from **raw data → insights → strategic decision-making**
+* Bringing **academic rigor and hands-on execution** to real-world data problems
+* Constantly leveraging **advanced analytical techniques** for informed decision-making
 
-**🍔 iFood Campaign Targeting**
-→ ML model (88% accuracy)
-→ Improved marketing efficiency
+<br>
 
-</td>
-</tr>
+### focus areas
 
-<tr>
-<td width="50%">
-
-**🏥 LightForce Analytics**
-→ Real consulting project
-→ Revenue + segmentation insights
+* customer behavior and retention analytics
+* experimentation and A/B testing
+* forecasting and predictive modeling
+* analytics for product and strategy
 
 </td>
-<td width="50%">
 
-**🏠 House Price Prediction**
-→ Deep learning model
-→ 55% better than baseline
+<td width="40%" align="center" valign="top">
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDhreno5cjVuZndiMTIwNGJqZW5ucmZ5bGpkYmVzOWg3MXVzMTczZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sWUhsr69ACcC2c0EYk/giphy.gif" width="100%" style="border-radius:12px; filter: brightness(90%) contrast(110%);" />
 
 </td>
 </tr>
 </table>
 
+---
+
+### stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,postgres,mysql,gcp,pytorch,git,github,vscode" />
+</p>
+
+<div align="center">
+
+`sql` · `scikit-learn` · `tableau` · `power bi` · `bigquery` · `pandas` · `numpy` · `excel`
+
 </div>
 
 ---
 
-### ✦ GitHub Insights
+### selected work
 
-<p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=vasundharapenmetsa-prog&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasundharapenmetsa-prog&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<table>
+<tr>
+<td width="50%">
+
+#### 🎮 Gaming Market Segmentation
+
+Behavioral segmentation and pricing strategy across 1,200+ users
+
+</td>
+<td width="50%">
+
+#### 🍔 iFood Campaign Targeting
+
+ML models to improve campaign targeting and conversion
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 🏥 LightForce Orthodontics
+
+Customer segmentation and SLA-driven revenue insights
+
+</td>
+<td width="50%">
+
+#### 🏠 House Price Prediction
+
+Deep learning model outperforming baseline by 55%
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 📊 Vungle A/B Testing
+
+Experimental analysis for ad performance optimization
+
+</td>
+<td width="50%">
+
+#### 🎧 Recommender System
+
+Collaborative filtering for personalized recommendations
+
+</td>
+</tr>
+</table>
 
 ---
 
-### ✦ Connect
-
 <p align="center">
-<a href="mailto:vasundhrapnmetsa@gmail.com">
-<img src="https://img.shields.io/badge/email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/pvasundhara/">
-<img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <sub>built intentionally · focused on impact</sub>
 </p>
 
----
-
-<p align="center">
-  <i>Building models that don’t just predict — but drive decisions</i>
-</p>
 
