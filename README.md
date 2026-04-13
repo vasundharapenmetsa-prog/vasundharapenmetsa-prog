@@ -23,7 +23,7 @@
 <tr>
 <td width="60%" valign="top">
 
-### about
+### About
 
 * Data Analyst specializing in **analytics, machine learning, and business impact**
 * Master of Quantitative Management (MQM), **Duke University**
@@ -35,7 +35,7 @@
 
 <br>
 
-### focus areas
+### Focus areas
 
 * customer behavior and retention analytics
 * experimentation and A/B testing
@@ -54,7 +54,7 @@
 
 ---
 
-### stack
+### Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,postgres,mysql,gcp,pytorch,git,github,vscode" />
@@ -68,7 +68,7 @@
 
 ---
 
-### selected work
+### Selected work
 
 <table>
 <tr>
