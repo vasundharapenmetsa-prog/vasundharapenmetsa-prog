@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Scientist-111827?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Product%20%26%20Business%20Analytics-1F2937?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Duke%20MQM-7C3AED?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Analyst-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Product%20%26%20Business%20Analytics-1F2937?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Duke%20MQM-7C3AED?style=for-the-badge"/>
 </p>
 
 <p align="center">
@@ -33,25 +33,20 @@
 
 ## About
 
-- Data Analyst focused on **analytics, machine learning, and business impact**  
-- Master of Quantitative Management (MQM), **Duke University — Fuqua School of Business**  
-- Experience across **customer segmentation, forecasting, experimentation, and product analytics**  
-- Strong foundation in **statistical modeling, feature engineering, and model evaluation**  
-- Building end-to-end analytical workflows from **data → insights → decision-making**  
-- Proficient in **Python, R, SQL, Snowflake, Airflow, CI/CD, Tableau**  
-- Currently focused on **data engineering and scalable ETL pipeline development**  
-- Bringing **academic rigor + real-world execution** to complex data problems  
-- Constantly leveraging **advanced analytical techniques** for smarter decision-making  
+- Data Analyst focused on **analytics, machine learning, and business impact**
+- Master of Quantitative Management (**MQM**), **Duke University — Fuqua School of Business**
+- Experience across **customer segmentation, forecasting, experimentation, and product analytics**
+- Strong foundation in **statistical modeling, feature engineering, and model evaluation**
+- Building end-to-end analytical workflows from **data → insights → decision-making**
 
 <br>
 
-## Focus areas
+## Focus Areas
 
 - customer behavior & retention analytics  
 - experimentation & A/B testing  
 - forecasting & predictive modeling  
 - product & growth analytics  
-- data engineering & ETL workflows  
 
 </td>
 
@@ -65,7 +60,7 @@
 
 ---
 
-## ⚡ Tech stack
+## ⚡ Tech Stack
 
 <table align="center">
 <tr>
@@ -81,7 +76,7 @@
 
 ### 🤖 Machine Learning
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn" />
 
 </td>
 
@@ -89,7 +84,6 @@
 
 ### 📊 Analytics & BI
 
-<img src="https://img.shields.io/badge/BigQuery-111827?style=for-the-badge&logo=googlebigquery&logoColor=white"/><br><br>
 <img src="https://img.shields.io/badge/Tableau-111827?style=for-the-badge&logo=tableau&logoColor=white"/><br><br>
 <img src="https://img.shields.io/badge/PowerBI-111827?style=for-the-badge&logo=powerbi&logoColor=yellow"/>
 
@@ -97,44 +91,29 @@
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Snowflake-111827?style=for-the-badge&logo=snowflake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Airflow-111827?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-111827?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
 ---
 
-## 🚀 Featured work
+## 🚀 Featured Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 Gaming Market Segmentation & Pricing
-Segmented **1,200+ gamers into 5 personas** using factor analysis and clustering.
+### 🎮 Gaming Market Segmentation  
+Segmented **1,200+ users into 5 personas**  
+→ Identified pricing & monetization opportunities  
 
-**Key Work:**  
-- Built segmentation pipeline using PCA + clustering  
-- Identified pricing sensitivity and behavioral segments  
-- Recommended product-market fit and pricing strategy  
-
-**Tech:** Python · Factor Analysis · Clustering  
+**Tech:** Python · Clustering · PCA  
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🍔 iFood Campaign Targeting
-Built ML models to predict **customer campaign response** across **2,200+ customers**.
+### 🍔 iFood Campaign Targeting  
+ML models predicting campaign response (**2,200+ users**)  
+→ Improved targeting efficiency  
 
-**Key Work:**  
-- Engineered behavioral and campaign features  
-- Developed classification models including SVM  
-- Improved targeting efficiency for marketing use cases  
-
-**Tech:** R · Logistic Regression · Random Forest · SVM  
+**Tech:** R · Logistic Regression · SVM  
 
 </td>
 </tr>
@@ -142,29 +121,19 @@ Built ML models to predict **customer campaign response** across **2,200+ custom
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 LightForce Orthodontics
-Real-world consulting project focused on **customer segmentation and SLA optimization**.
-
-**Key Work:**  
-- Analyzed customer behavior and segment performance  
-- Connected operational performance to revenue outcomes  
-- Delivered strategy recommendations for retention and growth  
-
-**Tech:** Python · Customer Analytics · Consulting  
+### 🏥 LightForce Orthodontics  
+Customer segmentation + SLA analysis  
+→ Linked operations to retention & revenue  
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🏠 Denver House Price Prediction
-Developed a deep learning model for real estate valuation on **11,500+ properties**.
+### 🏠 House Price Prediction  
+Deep learning model (**11,500+ properties**)  
+→ **55% improvement over baseline**  
 
-**Key Work:**  
-- Built neural network in PyTorch  
-- Engineered predictive features from housing data  
-- Outperformed baseline model by **55%**  
-
-**Tech:** PyTorch · Neural Networks · Feature Engineering  
+**Tech:** PyTorch  
 
 </td>
 </tr>
@@ -172,29 +141,17 @@ Developed a deep learning model for real estate valuation on **11,500+ propertie
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Vungle A/B Testing Analysis
-Evaluated ad-serving algorithm performance using large-scale experimental data.
-
-**Key Work:**  
-- Designed A/B testing framework  
-- Applied hypothesis testing and statistical analysis  
-- Recommended optimal algorithm based on performance  
-
-**Tech:** Experimentation · Hypothesis Testing · Statistics  
+### 🎧 Recommender System  
+Collaborative filtering with embeddings  
+→ Improved personalization  
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🎧 Recommender System
-Built collaborative filtering model for personalized recommendations.
-
-**Key Work:**  
-- Modeled user-item interactions  
-- Implemented matrix factorization and embeddings  
-- Improved personalization and recommendation relevance  
-
-**Tech:** PyTorch · Embeddings · Recommendation Systems  
+### 💳 Allstate Insurance Prediction  
+Modeled pricing across **15,000+ quotes**  
+→ Built interpretable prediction workflows  
 
 </td>
 </tr>
@@ -202,29 +159,12 @@ Built collaborative filtering model for personalized recommendations.
 <tr>
 <td width="50%" valign="top">
 
-### 💳 Allstate Insurance Cost Prediction
-Built predictive models to understand and forecast insurance pricing.
-
-**Key Work:**  
-- Performed feature engineering on **15,000+ quotes**  
-- Addressed missing data and model selection  
-- Built interpretable pricing prediction workflows  
-
-**Tech:** R · Regression · Classification Trees · EDA  
+### 🌌 Current Focus  
+churn · customer journeys · forecasting  
 
 </td>
 
 <td width="50%" valign="top">
-
-### 🌌 Current Interests
-Areas I’m continuing to build in and explore.
-
-**Current Focus:**  
-- churn prediction & retention analytics  
-- customer journey optimization  
-- scalable data pipelines and ETL  
-- forecasting systems and decision support  
-
 </td>
 </tr>
 </table>
